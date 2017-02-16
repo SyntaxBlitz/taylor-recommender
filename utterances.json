@@ -1,0 +1,255 @@
+{
+	"utterances": {
+		"I feel overwhelmed": {
+			"lost": 1
+		},
+
+		"I feel completely lost": {
+			"lost": 1
+		},
+
+		"I met someone new": {
+			"so future": 0.1,
+			"new person": 1,
+			"happiness": 0.2,
+			"moving on": 0.2
+		},
+
+		"I met this wonderful new girl": {
+			"so future": 0.1,
+			"new person": 1,
+			"happiness": 0.2,
+			"moving on": 0.2
+		},
+
+		"I met a really cute girl": {
+			"so future": 0.1,
+			"new person": 1,
+			"happiness": 0.2,
+			"moving on": 0.2
+		},
+
+		"My crush is dating someone else": {
+			"crush": 1
+		},
+
+		"This girl doesn't like me back": {
+			"crush": 0.8,
+			"moving on": 0.8
+		},
+
+		"I fucked up": {
+			"mistake": 1
+		},
+
+		"I'm excited about my girlfriend": {
+			"so future": 0.9,
+			"so contentedness": 1,
+			"happiness": 0.8,
+			"passion": 0.7
+		},
+
+		"I'm so done": {
+			"moving on": 0.6,
+			"never getting back together": 0.9,
+			"yolo": 0.1
+		},
+
+		"I'm never getting back together with her": {
+			"never getting back together": 1
+		},
+
+		"We keep getting back together": {
+			"bounce-back": 1
+		},
+
+		"We can't stay apart": {
+			"bounce-back": 1
+		},
+
+		"I can't stop loving my girlfriend": {
+			"bounce-back": 1
+		},
+
+		"I need to move on": {
+			"moving on": 1
+		},
+
+		"It's over": {
+			"moving on": 0.9,
+			"mistake": 0.4
+		},
+
+		"She doesn't like me anymore": {
+			"moving on": 0.9,
+			"mistake": 0.6
+		},
+
+		"The future is bright": {
+			"happiness": 0.8,
+			"so future": 0.9
+		},
+
+		"I love her so much": {
+			"so future": 0.7,
+			"so contentedness": 1,
+			"happiness": 0.8,
+			"passion": 0.9
+		},
+
+		"The love is so passionate": {
+			"so future": 0.7,
+			"so contentedness": 1,
+			"happiness": 0.8,
+			"passion": 1
+		},
+
+		"Fuck the haters": {
+			"haters": 1,
+			"yolo": 0.2
+		},
+
+		"I'm an independent person": {
+			"haters": 0.9,
+			"yolo": 0.5
+		},
+
+		"I'm so happy right now": {
+			"happiness": 1
+		},
+
+		"I hate her": {
+			"never getting back together": 0.8
+		},
+
+		"I hate my ex": {
+			"never getting back together": 0.8
+		},
+
+		"I want to get back together with my ex": {
+			"bounce-back": 1
+		},
+
+		"yolo": {
+			"yolo": 1
+		},
+
+		"I feel like doing something crazy": {
+			"yolo": 1
+		},
+
+		"I just started dating someone": {
+			"new person": 1,
+			"happiness": 0.4
+		},
+
+		"I want to get to know her": {
+			"new person": 1
+		},
+
+		"I need to stop thinking about her": {
+			"moving on": 1
+		},
+
+		"I can't stop thinking about her": {
+			"moving on": 1,
+			"bounce-back": 0.3
+		},
+
+		"I met a really cool girl": {
+			"new person": 1
+		},
+
+		"I'm being bullied": {
+			"haters": 1,
+			"lost": 0.4
+		},
+
+		"I'm sick of people telling me I'm not good enough": {
+			"haters": 1
+		},
+
+		"I'm so excited": {
+			"happiness": 1,
+			"so contentedness": 0.6,
+			"so future": 0.6
+		},
+
+		"I'm worried about the future": {
+			"lost": 0.9,
+			"moving on": 0.1
+		},
+
+		"I'm remembering my old relationships": {
+			"nostalgia": 1,
+			"moving on": 0.6
+		},
+
+		"I'll never forget her": {
+			"nostalgia": 1,
+			"moving on": 0.6
+		},
+
+		"I'll never forget my ex": {
+			"nostalgia": 1,
+			"moving on": 0.6
+		},
+
+		"I remember the good times": {
+			"nostalgia": 1
+		},
+
+		"I remember my childhood": {
+			"nostalgia": 1
+		},
+
+		"I'm thinking about how it used to be": {
+			"nostalgia": 1
+		},
+
+		"I'm thinking about my childhood": {
+			"nostalgia": 1
+		},
+
+		"I still love her": {
+			"moving on": 1
+		},
+
+		"I want her back": {
+			"moving on": 0.8,
+			"bounce-back": 0.7
+		},
+
+		"I miss her": {
+			"moving on": 1,
+			"bounce-back": 0.2
+		},
+
+		"I miss what we had": {
+			"moving on": 1,
+			"bounce-back": 0.2,
+			"nostalgia": 0.5
+		},
+
+		"I can't tell if she likes me back": {
+			"new person": 1
+		},
+
+		"I don't like anyone I'm meeting": {
+			"lost": 1
+		},
+
+		"I'm fed up": {
+			"never getting back together": 1,
+			"haters": 0.2
+		},
+
+		"My girlfriend broke up with me": {
+			"moving on": 1
+		},
+
+		"I broke up with my girlfriend": {
+			"never getting back together": 1
+		},
+	}
+}

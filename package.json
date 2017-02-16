@@ -1,0 +1,17 @@
+{
+  "name": "taylor-recommender.syntaxblitz.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Timothy J. Aveni",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}

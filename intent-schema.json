@@ -1,0 +1,19 @@
+{
+	"intents": [
+		{
+			"intent": "RecommendSong",
+			"slots": [
+				{
+					"name": "Situation",
+					"type": "AMAZON.LITERAL"
+				}
+			]
+		},
+		{
+            "intent": "AMAZON.PauseIntent"
+        },
+        {
+            "intent": "AMAZON.ResumeIntent"
+        }
+	]
+}
